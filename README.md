@@ -142,10 +142,6 @@ x = -2
 
 ---
 
-## 🤝 Contributing
-
-Have an idea? Found a bug? Open a PR or issue! Contributions are welcome.
-
 ---
 
 ## 🧠 License
