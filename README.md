@@ -1,6 +1,8 @@
 
 # 🧠 Fine-Tuning Qwen3-0.6B using Unsloth for Reasoning & Chat
 
+![image](https://raw.githubusercontent.com/ambideXtrous9/Finetune-Qwen3-using-Unsloth/refs/heads/main/Experimental/QWEN.jpg)
+
 This project demonstrates how to fine-tune the lightweight **Qwen3-0.6B** language model using the **[Unsloth](https://github.com/unslothai/unsloth)** library. It combines **Chain-of-Thought (CoT) reasoning** and **chat-style datasets** for enhanced multiturn reasoning and conversation abilities using efficient **LoRA adapters** and **4-bit quantization**.
 
 ---
